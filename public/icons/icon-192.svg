@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
+  <rect width="192" height="192" rx="40" fill="#0284c7" />
+  <circle cx="96" cy="96" r="68" fill="#ffffff" opacity="0.1" />
+  <!-- Medical Cross & Stethoscope symbol -->
+  <path d="M84 48 H108 V84 H144 V108 H108 V144 H84 V108 H48 V84 H84 Z" fill="#ffffff" rx="6" />
+  <circle cx="96" cy="96" r="14" fill="#0284c7" />
+  <path d="M96 90 L96 102 M90 96 L102 96" stroke="#ffffff" stroke-width="3" stroke-linecap="round" />
+</svg>
